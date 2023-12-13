@@ -1,0 +1,76 @@
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\PremierGui.exe.config
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\PremierGui.exe
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\PremierGui.pdb
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\obj\Debug\PremierGui.csproj.AssemblyReference.cache
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\obj\Debug\PremierGui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\obj\Debug\PremierGui.Form1.resources
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\obj\Debug\PremierGui.Properties.Resources.resources
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\obj\Debug\PremierGui.csproj.GenerateResource.cache
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\obj\Debug\PremierGui.csproj.CoreCompileInputs.cache
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\obj\Debug\PremierGui.exe
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\obj\Debug\PremierGui.pdb
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\blake.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\conant.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\davis.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\drew.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\drury.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\eves.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\ferguson.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\ford.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\frost.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\hardy.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\harris.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\hearst.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\henry.gif
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\henry.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\hepburn.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\kennedy.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\macdonald.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\mcGuinty.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\miller.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\mowat.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\nixon.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\peterson.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\rae.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\robarts.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\ross.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\whitney.jpg
+C:\Users\Faz\Desktop\Centennial\COMP 123 - Programming 2\Codes\PremierGui\PremierGui\bin\Debug\bin\Debug\images\wynne.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\blake.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\davis.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\conant.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\drew.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\drury.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\eves.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\ferguson.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\ford.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\frost.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\hardy.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\harris.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\hearst.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\henry.gif
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\henry.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\hepburn.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\kennedy.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\macdonald.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\mcGuinty.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\miller.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\mowat.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\nixon.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\peterson.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\rae.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\robarts.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\ross.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\whitney.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\bin\Debug\images\wynne.jpg
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\PremierGui.exe.config
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\PremierGui.exe
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\bin\Debug\PremierGui.pdb
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\obj\Debug\PremierGui.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\obj\Debug\PremierGui.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\obj\Debug\PremierGui.Form1.resources
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\obj\Debug\PremierGui.Properties.Resources.resources
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\obj\Debug\PremierGui.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\obj\Debug\PremierGui.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\obj\Debug\PremierGui.exe
+C:\Users\Daniel\source\repos\OntarioPremiersGUI-main\OntarioPremiersGUI-main\PremierGui\obj\Debug\PremierGui.pdb
